@@ -11,41 +11,15 @@ Juan Pablo Ruiz Arizmendi
 Sebastian Ramirez Vasco
 Miguel Angel Perez Martinez
 Alejandro Corrales Chalarca
-<<<<<<< HEAD
 Nicolas Martinez Betancourt
-
-
-
-
-
-
-
-
-
-=======
+StivenGuirales
 Maria Jose Sanchez 
+Juan Sebastian Gomez Franco
 Zir Alejandro Bedoya Gaviria (x2)
->>>>>>> d8872f15a48ac9afde8fe6ad7f1c5c3423d2f021
 Juan David Peña Calle
 SAMUEL MUÑOZ POSADA
 LAURA VASQUEZ JIMENEZ
-<<<<<<< HEAD
-
-
-
-
-
-
-
-
-
-
-
-
-
-=======
 SANTIAGO TAMAYO RICO
->>>>>>> d8872f15a48ac9afde8fe6ad7f1c5c3423d2f021
 Alexander Ulloa Perez
 AlejandraVilla
 Alejandra Villa Aguirre
