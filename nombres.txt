@@ -11,6 +11,7 @@ Juan Pablo Ruiz Arizmendi
 Sebastian Ramirez Vasco
 Miguel Angel Perez Martinez
 Alejandro Corrales Chalarca
+Nicolas Martinez Betancourt
 StivenGuirales
 Maria Jose Sanchez 
 Juan Sebastian Gomez Franco
